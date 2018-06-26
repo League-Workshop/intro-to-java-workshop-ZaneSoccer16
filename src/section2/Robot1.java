@@ -3,7 +3,7 @@ package section2;
 import java.awt.Color;
 import org.jointheleague.graphical.robot.Robot;
 
-public class MyFirstJavaProgram {
+public class Robot1 {
 
 	public static <c390, speed> void main(String[] args) {
 
